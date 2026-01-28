@@ -20,16 +20,12 @@ I dwell in the shadows of code, conjuring smooth animations, eerie UI, and haunt
 
 ---
 
-### 🎃 Projects in the Shadows
-- [**Mosin Wallpaper Generator**](https://github.com/username/mosin-wallpaper) – Summon eerie wallpapers with a click.  
-- [**Dark Portfolio**](https://github.com/username/portfolio) – A web portfolio shrouded in shadows and smooth animations.  
-- [**UI Spellbook**](https://github.com/username/ui-library) – Components crafted with mystical precision.  
-
----
-
 ### 📊 GitHub Stats
-![Ksrx Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksrxmax&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksrxmax&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksrxmax&show_icons=true&theme=dark" alt="Ksrx Max's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrxmax&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ---
 
