@@ -28,9 +28,9 @@ I dwell in the shadows of code, conjuring smooth animations, eerie UI, and haunt
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksrxmax&show_icons=true&theme=dark&hide_border=true" alt="Ksrx Max's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m4xvx&show_icons=true&theme=dark&hide_border=true" alt="Ksrx Max's GitHub stats" width="400"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrxmax&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4xvx&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400"/>
 </div>
 
 ---
