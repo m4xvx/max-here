@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="800" alt="Banner"/>
 </p>
@@ -49,4 +48,3 @@
 <p align="center">
 <i>"Building elegant solutions through clean code."</i>
 </p>
-```
