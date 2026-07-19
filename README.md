@@ -1,46 +1,140 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Spooky Banner" width="600"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="900" alt="Dark Banner"/>
 </p>
 
-# 👻 Ksrx Max – Keeper of the Dark Code
+<h1 align="center">👻 Max 👻</h1>
 
-### Enter if you dare… 💀  
-I dwell in the shadows of code, conjuring smooth animations, eerie UI, and hauntingly clean projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+Developer;Dark+UI+Designer;Open+Source+Contributor;Coffee+Powered+Coder+☕" alt="Typing SVG"/>
+</p>
 
----
-
-### 🕸️ About Me
-- 💻 Full-Stack Developer & Web Sorcerer  
-- 🎨 Crafting dark and mystical UI experiences  
-- 🛠 Skills: JavaScript, React, CSS Animations, Open Source  
-
----
-
-### 🕷️🕸️ Tech Stack
-- 🕷️ **HTML** – Weaving the web of structure  
-- 🕸️ **CSS** – Crafting dark and twisted styles  
-- 🕷️ **JavaScript** – Animating shadows and spells  
-- 🕸️ **React** – Summoning dynamic interfaces  
-- 🔥 **Node.js** – Powering the backend under the moonlight  
-- 🩸 **Git** – Version control… or eternal chains  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m4xvx&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/m4xvx?style=for-the-badge&color=8A2BE2"/>
+  <img src="https://img.shields.io/github/stars/m4xvx?style=for-the-badge&color=8A2BE2"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4xvx&show_icons=true&theme=dark&hide_border=true" alt="Ksrx Max's GitHub stats" width="400"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4xvx&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400"/>
-</div>
+# 🌑 About Me
+
+```yaml
+Name: Max
+
+Role: Full-Stack Developer
+
+Focus:
+  - Modern Web Development
+  - UI/UX
+  - Performance Optimization
+  - Open Source
+
+Currently Learning:
+  - Next.js
+  - TypeScript
+  - Backend Architecture
+
+Fun Fact:
+  "I debug better after midnight."
+```
 
 ---
 
-### 🔮 Fun Dark Facts
-- I summon code at night 🌙  
-- Coffee is my potion ☕  
-- Smooth animations are my spells 🌀
+# ⚔️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,linux"/>
+</p>
 
 ---
 
-### 🕯️ Motto
-*"Code is the spell, design is the magic… beware the bugs in the shadows."*
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=m4xvx&theme=tokyonight&no-frame=true&column=7"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=m4xvx&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4xvx&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=m4xvx&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4xvx&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/m4xvx/m4xvx/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/m4xvx">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Add your links -->
+
+
+</p>
+
+---
+
+# 🌙 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎵 Coding Vibes
+
+> 🌑 Coding after midnight
+> ☕ Coffee is mandatory
+> 🎧 Music keeps the bugs away
+> 🕷️ Every animation should feel magical.
+
+---
+
+<h3 align="center">
+🕯️ "Code is the spell. Design is the magic."
+</h3>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
